@@ -86,11 +86,8 @@ I enjoy transforming raw data into meaningful insights.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Code-With-Mayank-Thapliyal&show_icons=true&theme=tokyonight" height="160px"/>
-
-  <!-- Language Stats (Only Java, SQL, Python Visible) -->
-  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Code-With-Mayank-Thapliyal&layout=compact&theme=tokyonight&langs_count=10&hide=html,css,javascript" height="160px"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Code-With-Mayank-Thapliyal&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Code-With-Mayank-Thapliyal&layout=compact&theme=tokyonight"/>
 </p>
 
 
