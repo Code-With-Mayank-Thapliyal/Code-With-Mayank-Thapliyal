@@ -86,8 +86,8 @@ I enjoy transforming raw data into meaningful insights.
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Code-With-Mayank-Thapliyal&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Code-With-Mayank-Thapliyal&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=code-with-mayank-thapliyal&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mayank-thapliyal&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
 
