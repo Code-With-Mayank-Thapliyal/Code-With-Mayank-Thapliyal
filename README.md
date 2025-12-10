@@ -83,7 +83,7 @@ I love solving problems and transforming raw data into meaningful insights.
 ---
 
 ## 📫 Connect With Me
-📧 Email: **thapliyalmayank404@gmail.com**  
+📧 Email: **mayankthapliyal2003@gmail.com**  
 🔗 GitHub: **Code-With-Mayank-Thapliyal**  
 
 ---
