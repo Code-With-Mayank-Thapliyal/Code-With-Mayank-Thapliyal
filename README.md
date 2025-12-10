@@ -10,13 +10,14 @@
 
 I am an aspiring **Data Analyst** and tech enthusiast currently pursuing Computer Science.  
 I enjoy working with **data cleaning, visualization, SQL queries, dashboards**, and building practical projects.  
-I love solving problems and transforming raw data into meaningful insights.
+I also have a strong foundation in **Data Structures & Algorithms (DSA)** and love solving coding problems.  
+I enjoy transforming raw data into meaningful insights.
 
 ### 📘 Relevant Skills
 - Data Analysis & Visualization  
 - SQL, Excel  
 - Python (Pandas, NumPy)  
-- Problem-Solving & Algorithms  
+- Java (Core + DSA)  
 - Dashboard Building (Power BI)
 
 ---
@@ -26,7 +27,7 @@ I love solving problems and transforming raw data into meaningful insights.
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ### **Tools & Technologies**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -44,6 +45,15 @@ I love solving problems and transforming raw data into meaningful insights.
 - Cleaned & transformed survey data  
 - Built interactive dashboards  
 - Found trends in job satisfaction, career expectations, environment & salary insights
+
+---
+
+### 💳 **Credit Card Financial Dashboard**
+**GitHub:** [Repository Link](https://github.com/Code-With-Mayank-Thapliyal/Credit_Card_Financial_Dashboard)  
+**Tech Stack:** Power BI, Excel  
+- Built a dashboard to analyze credit card spend patterns and user segments  
+- Visualized KPIs like total spend, average transaction, delinquency trends  
+- Created actionable insights for customer segmentation and risk monitoring
 
 ---
 
